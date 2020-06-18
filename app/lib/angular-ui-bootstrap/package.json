@@ -36,7 +36,7 @@
   "dependencies": {},
   "description": "Native AngularJS (Angular) directives for Bootstrap",
   "devDependencies": {
-    "angular": "1.6.1",
+    "angular": "1.8.0",
     "angular-mocks": "1.6.1",
     "angular-sanitize": "1.6.1",
     "grunt": "^0.4.5",
